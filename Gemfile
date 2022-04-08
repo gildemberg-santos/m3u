@@ -9,4 +9,5 @@ ruby ">= 3.0.0"
 group :development do
   gem "rubocop"
   gem "solargraph"
+  gem "rexml", ">= 3.2.5"
 end
