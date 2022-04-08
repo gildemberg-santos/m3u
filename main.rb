@@ -1,7 +1,6 @@
 require_relative 'config'
 require_relative 'lib/download_m3u'
 require_relative 'lib/create_m3u'
-require_relative 'lib/teste'
 
 @title_terminal = ''
 @group_title_terminal = ''
